@@ -1,5 +1,12 @@
-{"properties": [{
-  "name": "chunkSize",
-  "type": "java.lang.String",
-  "description": "A description for 'chunkSize'"
-}]}
+{"properties": [
+  {
+    "name": "chunkSize",
+    "type": "java.lang.String",
+    "description": "A description for 'chunkSize'"
+  },
+  {
+    "name": "pageSize",
+    "type": "java.lang.String",
+    "description": "A description for 'pageSize'"
+  }
+]}
